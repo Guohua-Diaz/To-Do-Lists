@@ -4,13 +4,13 @@
 <li> remove </li>
 </ul>
 
-## How to run 
+## How To Run 
 1. clone the repo
 2. npm intall --global http-server
 3. http-sever -c-1
 4. open your browser localhost:8080
 
-## License information
+## License Information
 [MIT license](http://choosealicense.com/licenses/mit)
 
 
