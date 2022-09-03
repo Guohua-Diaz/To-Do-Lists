@@ -1,8 +1,8 @@
 # To-Do-Lists
-## My To-Dos 
-
-This is my todo list for today!
-There only are pre-set 3things for this moring I could add as much as I want to for my Todos.
+<ul>
+<li> add</li>
+<li> remove </li>
+</ul>
 
 ## How to run 
 1. clone the repo
@@ -12,5 +12,5 @@ There only are pre-set 3things for this moring I could add as much as I want to 
 
 ## License information
 [MIT license](http://choosealicense.com/licenses/mit)
-![alt text](Pictures/todo-lists.png)
+![todo-lists]()
 
