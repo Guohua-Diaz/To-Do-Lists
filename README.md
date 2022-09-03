@@ -13,7 +13,8 @@
 ## License Information
 [MIT license](http://choosealicense.com/licenses/mit)
 
-![todo-lists](https://github.com/Guohua-Diaz/To-Do-Lists/blob/main/todo-lists.png)
+![todo-lists](https://github.com/Guohua-Diaz/To-Do-Lists/blob/main/todo-lists.png= 250 x 250)
+
 
 
 
